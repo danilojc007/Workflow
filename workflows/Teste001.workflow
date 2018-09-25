@@ -59,15 +59,15 @@
 		},
 		"e5ce727a-b655-48c5-9eb7-b30e7f855479": {
 			"classDefinition": "com.sap.bpm.wfs.ui.EndEventSymbol",
-			"x": 94,
-			"y": 12,
+			"x": 132,
+			"y": 22,
 			"width": 35,
 			"height": 35,
 			"object": "bfe05f3f-f49b-4cb4-840d-9b7055572c63"
 		},
 		"50f08494-d8c5-425b-9a70-db450f9aba17": {
 			"classDefinition": "com.sap.bpm.wfs.ui.SequenceFlowSymbol",
-			"points": "27,30 94,30",
+			"points": "27,30 79.74620819091797,30 79.74620819091797,40 132,40",
 			"sourceSymbol": "3b047e21-d566-4aab-a641-55bea869ae8b",
 			"targetSymbol": "e5ce727a-b655-48c5-9eb7-b30e7f855479",
 			"object": "3646d1f6-11ee-44d8-882f-5a91b7ad6adf"
